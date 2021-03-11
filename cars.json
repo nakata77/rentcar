@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "BMW",
+    "model": "M3",
+    "fuel_consumption": 8,
+    "registry_number": "AK3423RV",
+    "price_per_hour": 20,
+    "price_per_day": 100,
+    "price_per_week": 450
+  },
+  {
+    "brand": "Audi",
+    "model": "A6",
+    "fuel_consumption": 7,
+    "registry_number": "GF8642FV",
+    "price_per_hour": 15,
+    "price_per_day": 75,
+    "price_per_week": 350
+  },
+  {
+    "brand": "Chevrolet",
+    "model": "Cruze",
+    "fuel_consumption": 6,
+    "registry_number": "CG52371DF",
+    "price_per_hour": 13,
+    "price_per_day": 65,
+    "price_per_week": 300
+  },
+  {
+    "brand": "Hyundai",
+    "model": "i20",
+    "fuel_consumption": 4,
+    "registry_number": "DV31245DF",
+    "price_per_hour": 10,
+    "price_per_day": 45,
+    "price_per_week": 220
+  },
+  {
+    "brand": "VW",
+    "model": "Golf 20",
+    "fuel_consumption": 5,
+    "registry_number": "DQ3390BL",
+    "price_per_hour": 12,
+    "price_per_day": 55,
+    "price_per_week": 260
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "B 200",
+    "fuel_consumption": 7,
+    "registry_number": "TY2948DE",
+    "price_per_hour": 15,
+    "price_per_day": 75,
+    "price_per_week": 340
+  },
+  {
+    "brand": "Audi",
+    "model": "A3",
+    "fuel_consumption": 9,
+    "registry_number": "UI6372DF",
+    "price_per_hour": 18,
+    "price_per_day": 90,
+    "price_per_week": 400
+  },
+  {
+    "brand": "Mitsubishi",
+    "model": "Pajero",
+    "fuel_consumption": 13,
+    "registry_number": "QP8720DF",
+    "price_per_hour": 25,
+    "price_per_day": 125,
+    "price_per_week": 500
+  },
+  {
+    "brand": "Ford",
+    "model": "Mondeo",
+    "fuel_consumption": 8,
+    "registry_number": "MV7462ER",
+    "price_per_hour": 15,
+    "price_per_day": 75,
+    "price_per_week": 350
+  },
+  {
+    "brand": "Renault",
+    "model": "Talisman",
+    "fuel_consumption": 7,
+    "registry_number": "TR2034ER",
+    "price_per_hour": 14,
+    "price_per_day": 70,
+    "price_per_week": 380
+  }
+]
